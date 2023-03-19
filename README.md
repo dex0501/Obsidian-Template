@@ -2,7 +2,7 @@ Obsidian reference vault with all needed plugins and customizations.
 
 ## Summary
 Main view
-![[./__attachments__/homepage.png]]
+![](./__attachments__/homepage.png)
 
 ### File Tree
 - "__attachments__" -> Every folder has its own folder for attachments.
