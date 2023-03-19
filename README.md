@@ -70,19 +70,19 @@ Main view
    ![[Pasted image 20230319165420.png]]
 3. This message will occur in the diary create in the first step in the log section.
 4. Also, it will be placed in the log section of the mentioned person. 
-   ![](person_look.png)
+   ![](__attachments__/person_look.png)
 ### Add new task
 1. `ATL + T` or command  `new task`
 2. Set reminder.
-	  ![](reminder.png)
+	  ![](__attachments__/reminder.png)
 3. Set due date.
-	  ![](duedate.png)
+	  ![](__attachments__/duedate.png)
 4. Set the task.
-	  ![](task_name.png)
+	  ![](__attachments__/task_name.png)
 5. Set the task priority.
-	  ![](set_prior.png)
+	  ![](__attachments__/set_prior.png)
 6. The task is written in the `__Tasks/Tasks.md`   (NOTE: If you want create the task in the current file use command `new task here`)
-	  ![](task_look.png)
+	  ![](__attachments__/task_look.png)
 8. It is also visible inside the today's diary.
 9. If you set up the Card Board it will be visible there. 
 	
