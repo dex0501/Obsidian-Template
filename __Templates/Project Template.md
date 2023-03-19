@@ -19,7 +19,7 @@ project-name: <% tp.file.title() %>
 ##  🌅 Meetings
 ```dataview
 TABLE
-from !"Templates"
+from !"__Templates"
 WHERE contains(type, "meeting") and contains(project, this.file.link)
 ```
 
@@ -27,7 +27,7 @@ WHERE contains(type, "meeting") and contains(project, this.file.link)
 ```dataview
 TABLE
 rows.Details as "Details"
-from !"Templates"
+from !"__Templates"
 WHERE contains(tag, this.file.name) 
 FLATTEN log as Details
 WHERE contains(Details, this.file.name) 
@@ -39,7 +39,7 @@ SORT row.file.day desc
 
 ```dataview
 TASK
-from !"Templates"
+from !"__Templates"
 WHERE contains(type, "dailytodo") and !completed
 WHERE contains(text, this.name)
 ```

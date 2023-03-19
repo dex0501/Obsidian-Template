@@ -13,7 +13,7 @@ tags: #company #client
 ## Related People
 ```dataview 
 LIST
-FROM !"Templates"
+FROM !"__Templates"
 WHERE type = "person"
 WHERE contains(company, this.file.link) 
 ```

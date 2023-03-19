@@ -17,7 +17,7 @@ tags: #companyrole #title
 ### People with this title
 ```dataview
 TABLE
-from !"Templates"
+from !"__Templates"
 WHERE type = "person"
 WHERE contains(company-role, this.file.link)
 ```

@@ -39,7 +39,7 @@ color yellow
 > [! tasks]+ Lists
 > ```dataview
 >TASK
->from !"Templates"
+>from !"__Templates"
 >WHERE created =  date(<% tp.file.creation_date("YYYY-MM-DD") %>)
 >SORT tsd DESCENDING
 >```
