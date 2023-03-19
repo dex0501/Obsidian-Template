@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Templates/Project Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Templates/Project Template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Templates/Project Template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Templates/Project Template.md"
+                "file": "README.md"
               }
             }
           },
@@ -214,6 +214,7 @@
   },
   "active": "092274114048fe4b",
   "lastOpenFiles": [
+    "__Templates/Project Template.md",
     "__Templates/Person Template.md",
     "__Templates/Location Template.md",
     "__Templates/Diary Template.md",
@@ -253,7 +254,6 @@
     "__Unsorted/Education Plan.md",
     "__Unsorted/action.md",
     "__Tasks/Ideas.md",
-    "__Templates/Project Template.md",
     "Work/Projects/Secret_Project/Meeting",
     "Day Planners",
     "__Tasks",
