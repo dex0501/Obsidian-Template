@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "2d04ef58a549abc7",
+            "id": "092274114048fe4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "__Templates/Project Template.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "__Templates/Project Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "__Templates/Project Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "__Templates/Project Template.md"
               }
             }
           },
@@ -212,11 +212,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2d04ef58a549abc7",
+  "active": "092274114048fe4b",
   "lastOpenFiles": [
-    "Homepage.md",
-    "__Unsorted/Pasted image 20230319165420.png.md",
+    "__Templates/Person Template.md",
+    "__Templates/Location Template.md",
+    "__Templates/Diary Template.md",
+    "__Templates/Company Template.md",
+    "__Templates/Company Role Template.md",
     "README.md",
+    "__attachments__/do-you-trust.png",
+    "__Unsorted/Pasted image 20230319165420.png.md",
+    "Homepage.md",
     "__attachments__/person_look.png",
     "__attachments__/Pasted image 20230319170705.png",
     "__attachments__/task_look.png",
@@ -226,7 +232,6 @@
     "__attachments__/duedate.png",
     "__attachments__/reminder.png",
     "__attachments__/Pasted image 20230319165420.png",
-    "__attachments__/new_log.png",
     "__attachments__/new_day.png.md",
     "Diary/Diary-20230319.md",
     "Work/People/Person B.md",
@@ -238,7 +243,6 @@
     "ss2.txt",
     "ss.txt",
     "__attachments__",
-    "__Templates/Diary Template.md",
     "Diary/Diary-20230313.md",
     "__Unsorted/www.gol.hr.md",
     "__Unsorted/Untitled 3.md",
@@ -249,12 +253,7 @@
     "__Unsorted/Education Plan.md",
     "__Unsorted/action.md",
     "__Tasks/Ideas.md",
-    "__Templates/Company Role Template.md",
-    "__Templates/Company Template.md",
-    "__Templates/Location Template.md",
-    "__Templates/Person Template.md",
     "__Templates/Project Template.md",
-    "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
     "Work/Projects/Secret_Project/Meeting",
     "Day Planners",
     "__Tasks",

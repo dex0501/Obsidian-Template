@@ -56,6 +56,17 @@ Main view
 ```
 
 
+## How to use this template vault?
+1. Download the repo as zip.
+2. Unzip it in wanted folder.
+3. Run Obsidian and open this vault.
+4. Trust author and enable plugins.
+   ![](./__attachments__/do-you-trust.png)
+5. Go through folder and tasks and clean everything up. 
+6. Customize [Homepage](./Homepage.md)
+7. Set up `CardBoard`
+
+
 ## Quick Start Guide
 
 ### Generate a diary (daily note) for today.
