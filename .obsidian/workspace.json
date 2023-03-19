@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diary/Diary-20230312.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 668.5
   },
   "right": {
     "id": "a27c1a547729005e",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Diary/Diary-20230312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Diary/Diary-20230312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Diary/Diary-20230312.md"
               }
             }
           },
@@ -214,13 +214,14 @@
   },
   "active": "092274114048fe4b",
   "lastOpenFiles": [
+    "Diary/Diary-20230319.md",
+    "README.md",
     "__Templates/Project Template.md",
     "__Templates/Person Template.md",
     "__Templates/Location Template.md",
     "__Templates/Diary Template.md",
     "__Templates/Company Template.md",
     "__Templates/Company Role Template.md",
-    "README.md",
     "__attachments__/do-you-trust.png",
     "__Unsorted/Pasted image 20230319165420.png.md",
     "Homepage.md",
@@ -234,7 +235,6 @@
     "__attachments__/reminder.png",
     "__attachments__/Pasted image 20230319165420.png",
     "__attachments__/new_day.png.md",
-    "Diary/Diary-20230319.md",
     "Work/People/Person B.md",
     "Diary/Diary-20230312.md",
     "__Tasks/Tasks.md",
