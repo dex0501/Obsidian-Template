@@ -20,7 +20,7 @@ tag: #people #person
 ```dataview 
 TABLE without id
  file.link as Project, project-client as Client, project-pm as PM
-FROM !"Templates"
+FROM !"__Templates"
 WHERE tag = project 
 WHERE contains(project-members, this.file.link) 
 ```
@@ -28,7 +28,7 @@ WHERE contains(project-members, this.file.link)
 ## 🌅 Meetings 
 ```dataview 
 TABLE without id file.link as Meeting, meeting-type as Type, date, topic
-FROM !"Templates"
+FROM !"__Templates"
 WHERE type = "meeting"
 WHERE contains(participants, this.file.link) 
 ```

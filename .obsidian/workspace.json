@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "122d468db514e958",
+            "id": "2d04ef58a549abc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Pasted image 20230319170835.png\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,23 +212,34 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "122d468db514e958",
+  "active": "2d04ef58a549abc7",
   "lastOpenFiles": [
-    "__attachments___/homepage.png.md",
-    "__attachments___",
     "Homepage.md",
-    "__attachments__/homepage.png",
+    "__Unsorted/Pasted image 20230319165420.png.md",
     "README.md",
+    "__attachments__/person_look.png",
+    "__attachments__/Pasted image 20230319170705.png",
+    "__attachments__/task_look.png",
+    "__attachments__/task_name.png",
+    "__attachments__/set_prior.png",
+    "__attachments__/Pasted image 20230319170028.png",
+    "__attachments__/duedate.png",
+    "__attachments__/reminder.png",
+    "__attachments__/Pasted image 20230319165420.png",
+    "__attachments__/new_log.png",
+    "__attachments__/new_day.png.md",
+    "Diary/Diary-20230319.md",
+    "Work/People/Person B.md",
+    "Diary/Diary-20230312.md",
+    "__Tasks/Tasks.md",
+    "__attachments__/homepage.png.md",
+    "__attachments___",
     "Private",
     "ss2.txt",
     "ss.txt",
     "__attachments__",
     "__Templates/Diary Template.md",
-    "Diary/Diary-20230319.md",
     "Diary/Diary-20230313.md",
-    "Diary/Diary-20230312.md",
-    "__Tasks/Tasks.md",
-    "__Unsorted/__attachments__/cro.png",
     "__Unsorted/www.gol.hr.md",
     "__Unsorted/Untitled 3.md",
     "__Unsorted/2023-03-12.md",
@@ -245,19 +256,9 @@
     "__Templates/Project Template.md",
     "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
     "Work/Projects/Secret_Project/Meeting",
-    "Work/Locations/Work Office.md",
-    "Learning/Check out  later.md",
-    "__Unsorted/banners.md",
     "Day Planners",
     "__Tasks",
-    "__Unsorted/__attachments__/usce.png",
-    "__Unsorted/__attachments__/postira.png",
     "__Unsorted/__attachments__",
-    "Work/Projects/Secret_Project",
-    "obsidian-calendar-plugin-master/images/screenshot-full.png",
-    "obsidian-calendar-plugin-master/images/how-to-weekend.png",
-    "obsidian-calendar-plugin-master/images/how-to-reopen.png",
-    "obsidian-calendar-plugin-master/images/how-to-pin.png",
-    "obsidian-calendar-plugin-master/images/how-to-close.png"
+    "Work/Projects/Secret_Project"
   ]
 }

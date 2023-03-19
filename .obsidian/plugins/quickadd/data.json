@@ -47,7 +47,7 @@
       "folder": {
         "enabled": true,
         "folders": [],
-        "chooseWhenCreatingNote": false,
+        "chooseWhenCreatingNote": true,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
@@ -155,40 +155,6 @@
       "setFileExistsBehavior": true
     },
     {
-      "id": "7838bfc7-4376-4153-94f0-aee9cff266d0",
-      "name": "new long term todo",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "Day Planners/Day Planner-{{DATE:YYYYMMDD}}",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "- log::  %% <% tp.file.creation_date() %>  %% {{VALUE}} {{mvalue}}"
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "## Long Term Todo ⛰️",
-        "insertAtEnd": true,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
       "id": "bcc2e992-211b-431e-a3c8-aafd8fde1725",
       "name": "new mom",
       "type": "Template",
@@ -231,7 +197,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- log::  %% <% tp.file.creation_date() %>  %% {{VALUE}} {{mvalue}}"
+        "format": "- log::  %% <% tp.file.creation_date() %>  %% {{VALUE}}"
       },
       "insertAfter": {
         "enabled": true,
