@@ -1,0 +1,43 @@
+{
+  "scanned": true,
+  "reminders": {
+    "__Tasks/Ideas.md": [
+      {
+        "title": "#idea %%[created:: 2023-03-12] %%   Idea for something",
+        "time": "2023-03-20 12:00",
+        "rowNumber": 1
+      }
+    ],
+    "__Tasks/Tasks.md": [
+      {
+        "title": "#task #projecta Do this before tommorow.",
+        "time": "2023-03-20",
+        "rowNumber": 3
+      },
+      {
+        "title": "%%[created:: 2023-03-12] %%   task with due next week",
+        "time": "2023-03-20",
+        "rowNumber": 5
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

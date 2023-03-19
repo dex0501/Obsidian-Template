@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "b71d1f620672a445",
+    "type": "split",
+    "children": [
+      {
+        "id": "36885ca508b4e10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d5fbe4e5d1699a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f248bad126baf150",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f71c0cc5a2bf15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28ba4a3f69712a8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f74d93061bd772b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f21241978f4f7090",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5df69992e29d80ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d212083dab5a2de",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5
+  },
+  "right": {
+    "id": "a27c1a547729005e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5156b97674ac8610",
+        "type": "tabs",
+        "dimension": 33.83600377002828,
+        "children": [
+          {
+            "id": "4f0f5f9d6f09b740",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d5002dc182f4b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "445ca5d1c0bab63c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a4ae11ed0603dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "770b571a8e5c5db1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "90f2fcc275648921",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "08c42caa6f0d0909",
+        "type": "tabs",
+        "dimension": 66.16399622997172,
+        "children": [
+          {
+            "id": "ed25b4229c6ee0fc",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "weather-fetcher:Insert Weather": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "47d5fbe4e5d1699a",
+  "lastOpenFiles": [
+    "README.md",
+    "__Templates/Diary Template.md",
+    "Diary/Diary-20230319.md",
+    "Diary/Diary-20230313.md",
+    "Diary/Diary-20230312.md",
+    "__Tasks/Tasks.md",
+    "__Unsorted/__attachments__/cro.png",
+    "Homepage.md",
+    "__Unsorted/www.gol.hr.md",
+    "__Unsorted/Untitled 3.md",
+    "__Unsorted/2023-03-12.md",
+    "__Unsorted/Untitled 2.md",
+    "__Unsorted/Untitled.md",
+    "__Unsorted/Spanish - Entry Level.md",
+    "__Unsorted/Education Plan.md",
+    "__Unsorted/action.md",
+    "__Tasks/Ideas.md",
+    "__Templates/Company Role Template.md",
+    "__Templates/Company Template.md",
+    "__Templates/Location Template.md",
+    "__Templates/Person Template.md",
+    "__Templates/Project Template.md",
+    "Work/Projects/Secret_Project/Meeting/MoM 20230301.md",
+    "Work/Projects/Secret_Project/Meeting",
+    "Work/Locations/Work Office.md",
+    "Learning/Check out  later.md",
+    "__Unsorted/banners.md",
+    "Day Planners/Day Planner-20230312.md",
+    "Day Planners",
+    "__Tasks",
+    "__Unsorted/__attachments__/usce.png",
+    "__Unsorted/__attachments__/postira.png",
+    "__Unsorted/__attachments__",
+    "Work/Projects/Secret_Project",
+    "Work/Locations",
+    "__Templates/Meetings",
+    "Work/Company Roles",
+    "Learning/Investing",
+    "Learning/IoT",
+    "obsidian-calendar-plugin-master/images/screenshot-full.png",
+    "obsidian-calendar-plugin-master/images/how-to-weekend.png",
+    "obsidian-calendar-plugin-master/images/how-to-reopen.png",
+    "obsidian-calendar-plugin-master/images/how-to-pin.png",
+    "obsidian-calendar-plugin-master/images/how-to-close.png"
+  ]
+}

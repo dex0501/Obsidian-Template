@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "__Unsorted",
+  "attachmentFolderPath": "./__attachments__",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "hr"
+  ],
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
+}

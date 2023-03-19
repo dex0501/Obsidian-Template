@@ -1,0 +1,5 @@
+{
+  "source": "wttr",
+  "cacheSeconds": 600,
+  "addRibbon": true
+}

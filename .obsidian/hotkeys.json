@@ -1,0 +1,34 @@
+{
+  "quickadd:choice:6c211d0d-12fb-4184-8aed-b7628626267c": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:f8f03071-6436-40b6-948f-3e9cd9ccea5e": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "quickadd:choice:b8fde86b-2a14-40db-9f22-37cd184c9159": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "quickadd:choice:006eb655-0035-4371-af33-9a372cd692c5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
