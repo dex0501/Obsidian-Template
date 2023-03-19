@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36885ca508b4e10c",
+        "id": "6f130e78f922ea78",
         "type": "tabs",
         "children": [
           {
-            "id": "47d5fbe4e5d1699a",
+            "id": "724e0b1a9c293457",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "122d468db514e958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,8 +212,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "47d5fbe4e5d1699a",
+  "active": "28ba4a3f69712a8b",
   "lastOpenFiles": [
+    "Private",
+    "ss2.txt",
+    "ss.txt",
+    "__attachments__/homepage.png",
+    "__attachments__",
+    "Homepage.md",
     "README.md",
     "__Templates/Diary Template.md",
     "Diary/Diary-20230319.md",
@@ -208,7 +227,6 @@
     "Diary/Diary-20230312.md",
     "__Tasks/Tasks.md",
     "__Unsorted/__attachments__/cro.png",
-    "Homepage.md",
     "__Unsorted/www.gol.hr.md",
     "__Unsorted/Untitled 3.md",
     "__Unsorted/2023-03-12.md",
@@ -228,7 +246,6 @@
     "Work/Locations/Work Office.md",
     "Learning/Check out  later.md",
     "__Unsorted/banners.md",
-    "Day Planners/Day Planner-20230312.md",
     "Day Planners",
     "__Tasks",
     "__Unsorted/__attachments__/usce.png",
@@ -237,9 +254,6 @@
     "Work/Projects/Secret_Project",
     "Work/Locations",
     "__Templates/Meetings",
-    "Work/Company Roles",
-    "Learning/Investing",
-    "Learning/IoT",
     "obsidian-calendar-plugin-master/images/screenshot-full.png",
     "obsidian-calendar-plugin-master/images/how-to-weekend.png",
     "obsidian-calendar-plugin-master/images/how-to-reopen.png",
