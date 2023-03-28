@@ -96,15 +96,59 @@ Main view
 	  ![](__attachments__/task_look.png)
 8. It is also visible inside the today's diary.
 9. If you set up the Card Board it will be visible there. 
+![image](https://user-images.githubusercontent.com/92267656/228163799-9ca2f66e-58b1-4d34-a5e6-d5d78c0304a2.png)
+
 	
 ## Features
 
 ### List of plugins 
+- Advanced Tables
+- Auto Note Mover
+- Banners
+- Buttons
+- Calendar
+- CardBoard
+- Dataview
+- Editor Syntax Highlight
+- Emoji Toolbar
+- Full Calendar
+- Hider
+- Homepage
+- Natural Languange Dates
+- QuickAdd
+- Reminder
+- Tasks
+- Templater
+- Weather Fetcher
+
 
 ### List of templates
+- Diary Template - daily summary (tasks, logs, notes)
+- Project Template
+- Person Template 
+- Location Template
+- Company Template
+- Company Role Template
+- Meetings / 
+	- Standard Meeting Template
+	- 1on1 Meeting Template
+	- Problem Solving Meeting Template (todo)
+
+### Automation (Quick Add plugin)
+- `new task` creates task in `__Tasks/Tasks.md`
+- `new task here` creates task in the current file
+- `new idea` creates idea in `__Tasks/Ideas.md`
+- `new person` creates task in preferred folder
+- `new project` creates project in preferred folder
+- `new day` creates daily diary for today
+- `new mom` creates meeting template 
+- `new log` creates log ([[person]] + text) in today's summary
 
 
 ## Shortcuts
 
+- `ALT + L` new log
+- `ALT + T` new task
+- Others are typical / visible in `Settings/Hotkeys`
 
 
