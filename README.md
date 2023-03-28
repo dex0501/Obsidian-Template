@@ -102,37 +102,37 @@ Main view
 ## Features
 
 ### List of plugins 
-- Advanced Tables
-- Auto Note Mover
-- Banners
-- Buttons
-- Calendar
-- CardBoard
-- Dataview
-- Editor Syntax Highlight
-- Emoji Toolbar
-- Full Calendar
-- Hider
-- Homepage
-- Natural Languange Dates
-- QuickAdd
-- Reminder
-- Tasks
-- Templater
-- Weather Fetcher
+- `Advanced Tables`
+- `Auto Note Mover`
+- `Banners` 
+- `Buttons`
+- `Calendar` Upper right corner - for diaries / daily overviews
+- `CardBoard` For task overview
+- `Dataview` For data/file/task/other overview
+- `Editor Syntax Highlight`
+- `Emoji Toolbar` Emojis
+- `Full Calendar` For sync with Microsoft/Google/Other calendar 
+- `Hider` 
+- `Homepage` - For having homepage
+- `Natural Languange Dates`
+- `QuickAdd` For automation (layer above templater)
+- `Reminder`
+- `Tasks` For tasks (task format that supports due date, start date, end date, reminders, etc)
+- `Templater` For templates
+- `Weather Fetcher` 
 
 
 ### List of templates
-- Diary Template - daily summary (tasks, logs, notes)
-- Project Template
-- Person Template 
-- Location Template
-- Company Template
-- Company Role Template
-- Meetings / 
-	- Standard Meeting Template
-	- 1on1 Meeting Template
-	- Problem Solving Meeting Template (todo)
+- `Diary Template` - daily summary (tasks, logs, notes)
+- `Project Template`
+- `Person Template` 
+- `Location Template`
+- `Company Template`
+- `Company Role Template`
+- `Meetings / 
+	- `Standard Meeting Template`
+	- `1on1 Meeting Template`
+	- `Problem Solving Meeting Template` (todo)
 
 ### Automation (Quick Add plugin)
 - `new task` creates task in `__Tasks/Tasks.md`
