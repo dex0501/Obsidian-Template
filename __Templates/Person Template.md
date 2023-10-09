@@ -22,7 +22,7 @@ TABLE without id
  file.link as Project, project-client as Client, project-pm as PM
 FROM !"__Templates"
 WHERE tag = project 
-WHERE contains(project-members, this.file.name) 
+WHERE contains(project-members, this.file.link) 
 ```
 
 ## 🌅 Meetings 
