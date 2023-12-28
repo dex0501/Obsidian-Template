@@ -3,7 +3,7 @@ creation-date: <% tp.file.creation_date() %>
 modification-date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 type: project
 tags: #project
-project-name: <% tp.file.title() %>   
+project-name: <% tp.file.title %>   
 ---
  
 ## Info 📑
@@ -28,7 +28,7 @@ WHERE contains(type, "meeting") and contains(project, this.file.link)
 TABLE
 rows.Details as "Details"
 from !"__Templates"
-WHERE contains(tag, this.file.name) 
+WHERE contains(log, this.file.name) 
 FLATTEN log as Details
 WHERE contains(Details, this.file.name) 
 GROUP BY file.link as Source
